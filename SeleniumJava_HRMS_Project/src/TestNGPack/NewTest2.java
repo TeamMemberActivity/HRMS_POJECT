@@ -31,6 +31,7 @@ public class NewTest2 {
 
   @AfterClass
   public void closeBrowser() {
+	  //close
 	  driver.close();
   }
 
